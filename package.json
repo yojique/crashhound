@@ -1,0 +1,38 @@
+{
+  "name": "crashhound",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "crash",
+    "crashlog",
+    "symbolicate",
+    "symbolicatecrash"
+  ],
+  "homepage": "https://github.com/yojique/crashhound#readme",
+  "bugs": {
+    "url": "https://github.com/yojique/crashhound/issues"
+  },
+  "license": "MIT",
+  "author": "ezi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yojique/crashhound.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "main": "crashhound.js",
+  "bin": {
+    "crashhound": "./crashhound.js"
+  },
+  "preferGlobal": true,
+  "os": [ "darwin" ],
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+
+  "dependencies": [
+
+  ]
+}
