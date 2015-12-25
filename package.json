@@ -13,7 +13,11 @@
     "url": "https://github.com/yojique/crashhound/issues"
   },
   "license": "MIT",
-  "author": "ezi",
+  "author": { 
+    "name" : "Andrii Shpak", 
+    "email" : "npm@molo.co.ua", 
+    "url" : "http://molo.co.ua"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yojique/crashhound.git"
