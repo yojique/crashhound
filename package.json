@@ -8,9 +8,9 @@
     "symbolicate",
     "symbolicatecrash"
   ],
-  "homepage": "https://github.com/yojique/crashhound#readme",
+  "homepage": "https://github.com/yojique/crashhound-npm#readme",
   "bugs": {
-    "url": "https://github.com/yojique/crashhound/issues"
+    "url": "https://github.com/yojique/crashhound-npm/issues"
   },
   "license": "MIT",
   "author": { 
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yojique/crashhound.git"
+    "url": "git+https://github.com/yojique/crashhound-npm.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
